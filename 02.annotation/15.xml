@@ -1,0 +1,38 @@
+<annotation>
+	<folder>02.annotation</folder>
+	<filename>15.jpg</filename>
+	<path>D:\clg\padi\sem6\ece3502 iot domain\pothole\datasets\using\02.annotation\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3200</width>
+		<height>1680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>880</xmin>
+			<ymin>772</ymin>
+			<xmax>2141</xmax>
+			<ymax>1274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>586</ymin>
+			<xmax>1064</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>
